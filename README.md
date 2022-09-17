@@ -39,21 +39,21 @@ Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHw, ETP, Neox, QKC, RV
 >Currently only the **Windows** platform is supported, other platforms will be supported very soon.
 
 # Table of Contents
-- [Background](##Background)
-- [Feature Overview](##Feature-Overview)
-- [Install](##Install)
-- [Usage](##Usage)
-  - [Common](###Common)
-  - [Table](###Table)
-- [Directory Description](##Directory-description)
-- [Dev Fee](##DevFee)
-- [Q&A](##Q&A)
-- [Contact us](##Contact-us)
-- [Language Pack](##Language-Pack)
-- [Hardware Requirements](##Hardware-Requirements)
-- [To Do List](##To-Do-List)
-- [Features beneath the surface](##Features-beneath-the-surface)
-- [Change Log](##Change-Log)
+- [Background](#Background)
+- [Feature Overview](#Feature-Overview)
+- [Install](#Install)
+- [Usage](#Usage)
+  - [Common](#Common)
+  - [Table](#Table)
+- [Directory Description](#Directory-description)
+- [Dev Fee](#DevFee)
+- [Q&A](#Q&A)
+- [Contact us](#Contact-us)
+- [Language Pack](#Language-Pack)
+- [Hardware Requirements](#Hardware-Requirements)
+- [To Do List](#To-Do-List)
+- [Features beneath the surface](#Features-beneath-the-surface)
+- [Change Log](#Change-Log)
 
 ## Background
 
