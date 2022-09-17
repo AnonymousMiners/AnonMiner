@@ -12,7 +12,7 @@
     <a href="https://github.com/AnonymousMiners/AnonMiner/issues">请求新功能</a>
     <br />
     <br />
-      <a href="https://github.com/AnonymousMiners/AnonMiner/README_zh.md">中文</a>
+      <a href="https://github.com/AnonymousMiners/AnonMiner/blob/main/README_zh.md">中文</a>
      ·  
      <a href="https://github.com/AnonymousMiners/AnonMiner">हिन्दी</a>
      ·
