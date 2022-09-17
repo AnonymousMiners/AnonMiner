@@ -78,7 +78,7 @@ Anon Miner was created to avoid this from happening.
    - Each server has its own fake page and switches from time to time
    - Automatically skip used routes
    - Automatically switch routes and change encryption configuration
-   - Automatically filter optimal routes from hundreds of global nodes
+   - Automatically filter out the optimal route from hundreds of nodes around the world
 - Easy overclocking setup
 - **Support Host-Client Mode**
 - Support boot auto-start
