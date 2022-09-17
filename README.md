@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -70,7 +71,7 @@ Anon Miner was created to avoid this from happening.
 	   - Use HTTPS to masquerade and encrypt surface traffic
 	 - Modify Traffic Characteristics
 	   - Automatically adjust packet size
-	   - Automatically adjust packet sending timing
+	   - Automatically adjust the packet sending interval
 	   - Automatically adjust the ratio of upload and download traffic
  - **Active confrontation strategy**
    -  Different masquerading and encryption strategies 
@@ -87,7 +88,7 @@ Anon Miner was created to avoid this from happening.
 - Auto save settings
 - **Automatically distribute and update programs to clients**
 - **Dynamically update encryption configuration files**
-- The endless pursuit of anonymity and the constant pursuit of the latest technology
+- The constant pursuit of the latest anonymous technology
 -  ...
 
 ## Install
@@ -117,7 +118,7 @@ Only one Host is required in a _Local Area Network_.
 #### Client
 ![enter image description here](https://raw.github.com/AnonymousMiners/AnonMiner/master/Images/Client.PNG)
 
-> Please let me know if the translation or expression is wrong. [Contact us](##Contactus)  or [Report bug](https://github.com/AnonymousMiners/AnonMiner/issues)
+> Please let me know if the translation or expression is wrong. [Contact us](#Contactus)  or [Report bug](https://github.com/AnonymousMiners/AnonMiner/issues)
 
 ### Common
 |Tag|Description  |
@@ -125,20 +126,20 @@ Only one Host is required in a _Local Area Network_.
 |**`Anti Dev Fee`**  |  Hijack all connections that do not match the wallet address (including mining software).  **Off by default.** |
 | **`Enable LAN Host mode`** |**Enable Host-Client mode**. This machine will search for and connect to all machines running the Client program in the same local area network. |
 | **`Boost Config`** |Overclocking settings for this machine. This item will be disabled if "This machine does not participate in mining" is turned on. |
-| **`Client General Settings`** | Overclocking settings for Clients.|
+| **`Client General Settings`** | Overclocking settings for Clients. The overclocking parameters will be automatically assigned according to the Client's graphics card model.|
 | **`Announcement`** |Official Announcement. Dynamic updates, please pay close attention. |
 
 
 
 ### Table
-When switching to a new route automatically, all records (including Accepted, Rejected and Invalid) will be cleared. Therefore, please refer to the mining pool page for records. 
+When switching to a new route automatically, all records (including Accepted, Rejected and Invalid) will be cleared. Therefore, please refer to the records on the mining pool page 
 > Will be fixed in the next version.
 
 |Tag|Description  |
 |--|--|
-|**`Intranet IP`**  |  The IP of the machine in the LAN, not the public IP. (* represents this machine)|
-| **`Rejected`** |The program will **automatically resubmit the work marked as Rejected by the mining pool to increase the actual revenue**. So the rejection rate will be a bit higher than normal. |
-| **`State`** |It has three states of Disconnected, Connected and Mining. **When it starts mining, it takes a period of time (tens of seconds)** to receive the data returned by the mining pool and **display in the Table**. |
+|**`Intranet IP`**  |  The IP of the machine in the LAN. (* represents this machine)|
+| **`Rejected`** |The program will **automatically attempt to resubmit the work marked as Rejected by the mining pool to increase the actual revenue**. So the rejection rate will be a bit higher than normal. |
+| **`State`** |It has three states of Disconnected, Connected and Mining. **When you start mining, you need to wait for a while (tens of seconds)** to receive the data returned by the mining pool and **display in the Table**. |
 | **`Report Time`** | The latest time the information was received from the machine.|
 
 
@@ -161,7 +162,7 @@ The basic dev fee is **1.2%**.
 
 When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 
-|Coins|Dev Fee  |
+|Algorithm/Coins|Dev Fee  |
 |--|--|
 |**ETHash coins**  |  0.2% |
 |  **AE** | - 0.8% |
@@ -177,16 +178,16 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 ## Q&A
 
  1. Q: Why does the software interface appear garbled?
-A: Because the system **lacks the corresponding text package**, you can download it from [Language Pack](##Language-Pack)  and copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
+A: Because the system **lacks the corresponding text package**, you can download it from [Language Pack](#Language-Pack)  and copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
 
  2. Q: After starting, why is the data not refreshed?
- A: It takes a period of time (tens of seconds) to receive the data returned by the mining pool and **display in the Table**. 
+ A: When you start mining, you need to wait for a while (tens of seconds) to receive the data returned by the mining pool and **display in the Table**. 
 
 3. Q: Why is the data in the table inaccurate?
 A: When switching to a new route automatically, all records (including Accepted, Rejected and Invalid) will be cleared. Therefore, please refer to the mining pool page for records.
 > Will be fixed in the next version.
 
->Looking forward to your questions.  [Contact us](##Contactus) 
+>Looking forward to your questions.  [Contact us](#Contactus) 
 
 ## Contact us
 
@@ -206,7 +207,7 @@ Copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
 - 日本語  -- [YuGothR.ttc](https://github.com/AnonymousMiners/AnonMiner/blob/main/Fonts/YuGothR.ttc?raw=true)
 - 한국어 -- [Batang.ttc](https://github.com/AnonymousMiners/AnonMiner/blob/main/Fonts/Batang.ttc?raw=true)
 
-> Please let us know if there is a better looking font or a translation or expression error.  [Contact us](##Contactus)
+> Please let us know if there is a better looking font or a translation or expression error.  [Contact us](#Contactus)
 
 ## Hardware Requirements
 
