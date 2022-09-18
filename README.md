@@ -118,7 +118,7 @@ Only one Host is required in a _Local Area Network_.
 #### Client
 ![enter image description here](https://raw.github.com/AnonymousMiners/AnonMiner/master/Images/Client.PNG)
 
-> Please let me know if the translation or expression is wrong. [Contact us](#Contactus)  or [Report bug](https://github.com/AnonymousMiners/AnonMiner/issues)
+> Please let me know if the translation or expression is wrong. [Contact us](#Contact-us)  or [Report bug](https://github.com/AnonymousMiners/AnonMiner/issues)
 
 ### Common
 |Tag|Description  |
@@ -177,17 +177,17 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 
 ## Q&A
 
- 1. Q: Why does the software interface appear garbled?
+1. Q: Why does the software interface appear garbled?
 A: Because the system **lacks the corresponding text package**, you can download it from [Language Pack](#Language-Pack)  and copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
 
- 2. Q: After starting, why is the data not refreshed?
- A: When you start mining, you need to wait for a while (tens of seconds) to receive the data returned by the mining pool and **display in the Table**. 
+2. Q: After starting, why is the data not refreshed?
+A: When you start mining, you need to wait for a while (tens of seconds) to receive the data returned by the mining pool and **display in the Table**. 
 
 3. Q: Why is the data in the table inaccurate?
 A: When switching to a new route automatically, all records (including Accepted, Rejected and Invalid) will be cleared. Therefore, please refer to the mining pool page for records.
 > Will be fixed in the next version.
 
->Looking forward to your questions.  [Contact us](#Contactus) 
+>Looking forward to your questions.  [Contact us](#Contact-us) 
 
 ## Contact us
 
@@ -207,7 +207,7 @@ Copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
 - 日本語  -- [YuGothR.ttc](https://github.com/AnonymousMiners/AnonMiner/blob/main/Fonts/YuGothR.ttc?raw=true)
 - 한국어 -- [Batang.ttc](https://github.com/AnonymousMiners/AnonMiner/blob/main/Fonts/Batang.ttc?raw=true)
 
-> Please let us know if there is a better looking font or a translation or expression error.  [Contact us](#Contactus)
+> Please let us know if there is a better looking font or a translation or expression error.  [Contact us](#Contact-us)
 
 ## Hardware Requirements
 
