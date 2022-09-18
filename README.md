@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -141,6 +140,7 @@ When switching to a new route automatically, all records (including Accepted, Re
 | **`Rejected`** |The program will **automatically attempt to resubmit the work marked as Rejected by the mining pool to increase the actual revenue**. So the rejection rate will be a bit higher than normal. |
 | **`State`** |It has three states of Disconnected, Connected and Mining. **When you start mining, you need to wait for a while (tens of seconds)** to receive the data returned by the mining pool and **display in the Table**. |
 | **`Report Time`** | The latest time the information was received from the machine.|
+| **`Auto Start`**|Start the program automatically at startup.|
 
 
 ## Directory description
