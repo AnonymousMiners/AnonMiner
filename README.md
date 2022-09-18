@@ -48,7 +48,7 @@ Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHw, ETP, Neox, QKC, RV
   - [Table](#Table)
 - [Directory Description](#Directory-description)
 - [Dev Fee](#DevFee)
-- [Q&A](#Q&A)
+- [FAQ](#FAQ)
 - [Contact us](#Contact-us)
 - [Language Pack](#Language-Pack)
 - [Hardware Requirements](#Hardware-Requirements)
@@ -175,7 +175,7 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 
 >Currently only supported Nbminer,  other mining software will be supported soon.
 
-## Q&A
+## FAQ
 
 1. Q: Why does the software interface appear garbled?
 A: Because the system **lacks the corresponding text package**, you can download it from [Language Pack](#Language-Pack)  and copy it to **C:\Windows\Fonts** folder or a similar path to the system disk.
