@@ -121,7 +121,7 @@ Only one Host is required in a _Local Area Network_.
 ### Common
 |Tag|Description  |
 |--|--|
-|**`Anti Dev Fee`**  |  Hijack all connections that do not match the wallet address (including mining software).  **Off by default.** |
+|**`Anti Dev Fee`**  |  Hijack all connections that do not match the wallet address (including mining software), and redirect to the current address.  **Off by default.** |
 | **`Enable LAN Host mode`** |**Enable Host-Client mode**. This machine will search for and connect to all machines running the Client program in the same local area network. |
 | **`Boost Config`** |Overclocking settings for this machine. This item will be disabled if "This machine does not participate in mining" is turned on. |
 | **`Client General Settings`** | Overclocking settings for Clients. The overclocking parameters will be automatically assigned according to the Client's graphics card model.|
