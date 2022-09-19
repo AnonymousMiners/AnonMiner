@@ -7,9 +7,9 @@
   <p align="center">
     A program that protects your anonymity under various regulations
     <br />
-    <a href="https://github.com/AnonymousMiners/AnonMiner/issues">Report bug</a>
+    <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
     ·
-    <a href="https://github.com/AnonymousMiners/AnonMiner/issues">Request feature</a>
+    <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=feature+request&template=feature_request.yml">Request feature</a>
     <br />
     <br />
       <a href="https://github.com/AnonymousMiners/AnonMiner/blob/main/README_zh.md">中文</a>
