@@ -8,9 +8,9 @@
   <p align="center">
    帮助您规避加密货币监管的程序
     <br />
-    <a href="https://github.com/AnonymousMiners/AnonMiner/issues">报告问题</a>
+    <a href="[https://github.com/AnonymousMiners/AnonMiner/issues](https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml)">报告问题</a>
     ·
-    <a href="https://github.com/AnonymousMiners/AnonMiner/issues">请求新功能</a>
+    <a href="[https://github.com/AnonymousMiners/AnonMiner/issues](https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=feature+request&template=feature_request.yml)">请求新功能</a>
     <br />
     <br />
       <a href="https://github.com/AnonymousMiners/AnonMiner/blob/main/README_zh.md">中文</a>
