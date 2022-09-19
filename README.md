@@ -36,7 +36,7 @@ At the same time, Anon Miner also supports **Host-Client management mode** and *
 
 Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Neox, QKC, RVN. 
 
->Currently only the **Windows** platform is supported, other platforms will be supported very soon.
+>Currently only the **Windows x64** platform is supported, other platforms will be supported very soon.
 
 # Table of Contents
 - [Background](#Background)
@@ -97,16 +97,14 @@ Select the corresponding installation package according to your platform and pro
 |Platform                |CPU                          |[Releases](https://github.com/AnonymousMiners/AnonMiner/releases) zip suffix                         |
 |------------------------|-----------------------------|-----------------------|
 |Windows x64				|`Intel/AMD x86_64`            |win_amd64.zip           |
-|Windows x32          		|`Intel/AMD`            |win_i386.zip            |
-|Windows arm x64          |`Arm x86_64 model`					|win_arm64.zip          |
-|Windows arm x32          |`Arm model`					|win_arm32.zip           |
+
 
 
 The Host and Client need to be in the **same _Local Area Network_**.
 
 Only one Host is required in a _Local Area Network_.
 
->Currently only the **Windows** platform is supported, other platforms will be supported very soon.
+>Currently only the **Windows x64** platform is supported, other platforms will be supported very soon.
 
 ## Usage
 
