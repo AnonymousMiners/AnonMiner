@@ -34,7 +34,7 @@ Anon Miner is a **GPU mining software** with the function of **disguising and en
 
 At the same time, Anon Miner also supports **Host-Client management mode** and **NoDevFee mode**.
 
-Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHw, ETP, Neox, QKC, RVN. 
+Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Neox, QKC, RVN. 
 
 >Currently only the **Windows** platform is supported, other platforms will be supported very soon.
 
