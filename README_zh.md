@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -52,6 +53,7 @@
 - [联系我们](#联系我们)
 - [语言包](#语言包)
 - [硬件要求](#硬件要求)
+- [内核版本](#内核版本)
 - [待实现功能](#待实现功能)
 - [台面下的功能](#台面下的功能)
 - [更新日志](#更新日志)
@@ -228,6 +230,12 @@
 * 30+ MBit/秒 **内网**速率
 * 10+ MBit/秒  **公网**速率
 
+## 内核版本
+| Miner | Version |
+|--|--|
+| NBMiner | 41.0 - 42.3 |
+
+>目前仅支持Nbminer，其他挖矿软件将很快支持。
 
 ## 待实现功能
 
