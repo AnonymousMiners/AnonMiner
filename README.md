@@ -51,6 +51,7 @@ Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Ne
 - [Contact us](#Contact-us)
 - [Language Pack](#Language-Pack)
 - [Hardware Requirements](#Hardware-Requirements)
+- [Support Miner List](#Support-Miner-List)
 - [To Do List](#To-Do-List)
 - [Features beneath the surface](#Features-beneath-the-surface)
 - [Change Log](#Change-Log)
@@ -224,6 +225,13 @@ Recommended:
 * 30+ MBit/sec **Intranet** service
 * 10+ MBit/sec **Internet** service
 
+## Support Miner List
+
+| Miner | Version |
+|--|--|
+| NBMiner | 41.0 - 42.3 |
+
+>Currently only supported Nbminer,  other mining software will be supported soon.
 
 ## To Do List
 
