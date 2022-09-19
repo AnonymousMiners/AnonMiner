@@ -59,7 +59,7 @@ Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Ne
 
 As more and more cryptocurrency regulations are rolled out, there is no doubt that it will seriously increase the cost of miners if identified as a cryptocurrency participant.
 
-Anon Miner was created to avoid this from happening.
+Anon Miner was born to avoid this from happening.
 
 ## Feature Overview
 
