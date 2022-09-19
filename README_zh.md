@@ -35,9 +35,9 @@
 
 同时，无名矿工还支持**主被控管理模式**和**反抽水模式**。
 
-目前支持AE、Beam、CFX、CLO、Ergo、ETC、ETF、ETHW、ETP、Neox、QKC、RVN。
+目前支持AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Neox, QKC, RVN。
 
->目前仅支持**Windows**平台，其他平台将很快支持。
+>目前仅支持**Windows 64位**平台，其他平台将很快支持。
 
 # Table of Contents
 - [背景](#背景)
@@ -99,9 +99,7 @@
 |平台                |CPU                          |[压缩包](https://github.com/AnonymousMiners/AnonMiner/releases) 后缀                         |
 |------------------------|-----------------------------|-----------------------|
 |Windows x64				|`Intel/AMD x86_64`            |win_amd64.zip           |
-|Windows x32          		|`Intel/AMD`            |win_i386.zip            |
-|Windows arm x64          |`Arm x86_64 model`					|win_arm64.zip          |
-|Windows arm x32          |`Arm model`					|win_arm32.zip           |
+
 
 
 
@@ -109,7 +107,7 @@
 
 局域网中只需要一个主机。
 
->目前仅支持**Windows**平台，其他平台将很快支持。
+>目前仅支持**Windows 64位**平台，其他平台将很快支持。
 
 
 ## 使用介绍
