@@ -7,7 +7,7 @@
   <p align="center">
     A program that protects your anonymity under various regulations
     <br />
-    <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
+  <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
     ·
     <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=feature+request&template=feature_request.yml">Request feature</a>
     <br />
@@ -66,7 +66,7 @@ Anon Miner was born to avoid this from happening.
 
  - Support **No Dev Fee** mode
  - **Disguised as normal web traffic**
-	 - Encrypt traffic
+	 - Double encrypted traffic
 	   - Encrypt underlying traffic with AES
 	   - Use HTTPS to masquerade and encrypt surface traffic
 	 - Modify Traffic Characteristics
@@ -80,14 +80,16 @@ Anon Miner was born to avoid this from happening.
    - Automatically skip used routes
    - Automatically switch routes and change encryption configuration
    - Automatically filter out the optimal route from hundreds of nodes around the world
-- Easy overclocking setup
 - **Support Host-Client Mode**
+- **Support automatic setting of Host&Client control firewall**
+- **Support automatic prohibition of mining kernel networking to avoid leaking network information**
+- **Automatically distribute and update programs to clients**
+- **Dynamically update encryption configuration files**
+- Easy overclocking setup
 - Support boot auto-start
 - Support lazy refresh
 - Support IPv4 & IPv6
 - Auto save settings
-- **Automatically distribute and update programs to clients**
-- **Dynamically update encryption configuration files**
 - The constant pursuit of the latest anonymous technology
 -  ...
 
