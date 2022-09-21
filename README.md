@@ -34,7 +34,7 @@ Anon Miner is a **GPU mining software** with the function of **disguising and en
 
 At the same time, Anon Miner also supports **Host-Client management mode** and **NoDevFee mode**.
 
-Currently supported AE, Beam, CFX, CLO, Ergo, ETC, ETF, ETHO, ETHw, ETP, DAE, Neox, QKC, RVN. 
+Currently supports all mainstream currencies and mining pools of NBMiner v41.0 - v42.3.  For details, check [Support Coins](#DevFee).
 
 >Currently only the **Windows x64** platform is supported, other platforms will be supported very soon.
 
@@ -125,7 +125,8 @@ Only one Host is required in a _Local Area Network_.
 |--|--|
 |**`Anti Dev Fee`**  |  Hijack all connections that do not match the wallet address (including mining software), and redirect to the current address.  **Off by default.** |
 | **`Enable LAN Host mode`** |**Enable Host-Client mode**. This machine will search for and connect to all machines running the Client program in the same local area network. |
-| **`Boost Config`** |Overclocking settings for this machine. This item will be disabled if "This machine does not participate in mining" is turned on. |
+| **`Boost Config`** |Overclocking settings for this machine. This item will be disabled if "This machine does not participate in mining" is turned on. For the meaning of the parameters, please refer to [NBMiner](https://github.com/NebuTech/NBMiner#CMD-options). |
+| `Independent Boost` |Overclocking settings for this machine. Set the overclocking parameters independently for each graphics card of this machine. When off, all graphics cards in this machine will use the same overclocking parameters. |
 | **`Client General Settings`** | Overclocking settings for Clients. The overclocking parameters will be automatically assigned according to the Client's graphics card model.|
 | **`Announcement`** |Official Announcement. Dynamic updates, please pay close attention. |
 
@@ -163,16 +164,17 @@ The basic dev fee is **1.2%**.
 
 When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 
-|Algorithm/Coins|Dev Fee  |
-|--|--|
-|**ETHash coins**  |  0.2% |
-|  **AE** | - 0.8% |
-|**ERGO, NEOX, RVN**  |- 0.8% |
-| **CFX** |- 1.8%  |
-| **BEAM** | - 0.8% |
+|Algorithm|Coins|Dev Fee  |
+|--|--|--|
+|**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
+|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
+|  **Cuckoo Cycle** |**AE**, CTXC |- 0.8% |
+|**Autolykos 2** | **ERGO** |- 0.8% |
+| **Octopus** |CFX|- 1.8%  |
+| **BeamHash** |Beam| - 0.8% |
 
 
-**Note**: Negative rates mean you'll get extra computing power than using the mining software alone.
+**Note**: Negative rates mean you'll get extra income than using the mining software alone.
 
 >Currently only supported Nbminer,  other mining software will be supported soon.
 
