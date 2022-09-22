@@ -255,6 +255,12 @@ Explore the [documentation](https://github.com/AnonymousMiners/AnonMiner/wiki) f
 
 ## Change Log
 
+v1.3.1 (2022-09-22)
+
+- Fix local display bug
+- Fix some translation errors
+
+
 v1.3 (2022-08-17)
 - Replacing the Host-Client Architecture
 
