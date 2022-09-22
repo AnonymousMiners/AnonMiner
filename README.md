@@ -32,7 +32,7 @@
 
 Anon Miner is a **GPU mining software** with the function of **disguising and encrypting** mining traffic into _**normal web traffic**_ to avoid various regulations.
 
-Anon Miner can fully simulate all processes such as requests, handshakes, and connections for normal web browsing by adding and adjusting various features.
+Anon Miner can **fully simulate all processes such as requests, handshakes, and connections for normal web browsing** by adding and adjusting various features.
 
 At the same time, Anon Miner also supports **Host-Client management mode** and **NoDevFee mode**.
 
