@@ -168,8 +168,8 @@
 |算法|币种|开发费用  |
 |--|--|--|
 |**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
-|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
-|  **Cuckoo Cycle** |**AE**, CTXC |- 0.8% |
+|  **Kawpow** | KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
+|  **Cuckoo Cycle** |**AE** |- 0.8% |
 |**Autolykos 2** | **ERGO** |- 0.8% |
 | **Octopus** |CFX|- 1.8%  |
 | **BeamHash** |Beam| - 0.8% |
