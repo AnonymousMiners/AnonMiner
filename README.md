@@ -32,6 +32,8 @@
 
 Anon Miner is a **GPU mining software** with the function of **disguising and encrypting** mining traffic into _**normal web traffic**_ to avoid various regulations.
 
+Anon Miner can fully simulate all processes such as requests, handshakes, and connections for normal web browsing by adding and adjusting various features.
+
 At the same time, Anon Miner also supports **Host-Client management mode** and **NoDevFee mode**.
 
 Currently supports all mainstream currencies and mining pools of NBMiner v41.0 - v42.3.  For details, check [Support Coins](#DevFee).
@@ -167,8 +169,8 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 |Algorithm|Coins|Dev Fee  |
 |--|--|--|
 |**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
-|  **Kawpow** | KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
-|  **Cuckoo Cycle** |**AE** |- 0.8% |
+|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
+|  **Cuckoo Cycle** |**AE**, CTXC |- 0.8% |
 |**Autolykos 2** | **ERGO** |- 0.8% |
 | **Octopus** |CFX|- 1.8%  |
 | **BeamHash** |Beam| - 0.8% |
@@ -254,12 +256,10 @@ Recommended:
 Explore the [documentation](https://github.com/AnonymousMiners/AnonMiner/wiki) for this project.
 
 ## Change Log
-
 v1.3.1 (2022-09-22)
 
 - Fix local display bug
 - Fix some translation errors
-
 
 v1.3 (2022-08-17)
 - Replacing the Host-Client Architecture
@@ -288,5 +288,5 @@ v1.0 (2022-07-19)
 - All configurations are cloud-based now
 - Increase active countermeasures
 
- …
- …
+…
+…
