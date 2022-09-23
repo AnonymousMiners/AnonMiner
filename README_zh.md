@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -12,7 +13,7 @@
     <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=feature+request&template=feature_request.yml">请求新功能</a>
     <br />
     <br />
-      <a href="https://github.com/AnonymousMiners/AnonMiner/blob/main/README_zh.md">中文</a>
+      <a href="https://github.com/AnonymousMiners/AnonMiner">English</a>
      ·  
      <a href="https://github.com/AnonymousMiners/AnonMiner">हिन्दी</a>
      ·
@@ -34,10 +35,11 @@
 
 **无名矿工**能通过增加并调整各类特征，**全面模拟正常网页浏览的请求、握手、连接等所有流程，以达到完全匿名**。
 
-
 目前支持NBMiner v41.0 - v42.3 内核的所有主流币种及矿池。详情请参见[支持币种](#开发费用)。
 
 >目前仅支持**Windows 64位**平台，其他平台将很快支持。[下载地址](https://github.com/AnonymousMiners/AnonMiner/releases)
+
+>加入通知频道，获取最新资讯。[联系我们](#联系我们)
 
 # 目录
 - [背景](#背景)
@@ -199,7 +201,11 @@
 ## 联系我们
 
 -   Email:  [AnonymousMiners@protonmail.com](mailto:AnonymousMiners@protonmail.com)
-- [Telegram](https://t.me/AnonMinerNews)
+- Telegram
+  - [**通知频道**](https://t.me/AnonMinerNews)
+  - [English community](https://t.me/AnonMinerGlobal)
+  - [中文社区](https://t.me/AnonMinerZh)
+  - [हिंदी समुदाय](https://t.me/AnonMinerHindi)
 
 
 ## 语言包
