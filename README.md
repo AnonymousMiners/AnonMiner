@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -199,7 +200,11 @@ A: When switching to a new route automatically, all records (including Accepted,
 ## Contact us
 
 -   Email:  [AnonymousMiners@protonmail.com](mailto:AnonymousMiners@protonmail.com)
-- [Telegram](https://t.me/AnonMinerNews)
+- Telegram
+  - [**Notification channel**](https://t.me/AnonMinerNews)
+  - [English community](https://t.me/AnonMinerGlobal)
+  - [中文社区](https://t.me/AnonMinerZh)
+  - [हिंदी समुदाय](https://t.me/AnonMinerHindi)
 
 
 ## Language Pack
