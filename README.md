@@ -6,7 +6,7 @@
 
   <h3 align="center">Camouflage & Encryption</h3>
   <p align="center">
-    A program to help you evade cryptocurrency regulation
+    A program to help you circumvent cryptocurrency mining regulations
     <br />
   <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
     ·
