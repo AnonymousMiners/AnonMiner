@@ -40,6 +40,8 @@ Currently supports all mainstream currencies and mining pools of NBMiner v41.0 -
 
 >Currently only the **Windows x64** platform is supported, other platforms will be supported very soon. [Releases](https://github.com/AnonymousMiners/AnonMiner/releases)
 
+>Enter the notification channel to get the latest information. [Contact us](#Contact-us)
+
 # Table of Contents
 - [Background](#Background)
 - [Feature Overview](#Feature-Overview)
