@@ -5,7 +5,7 @@
 
   <h3 align="center">Camouflage & Encryption</h3>
   <p align="center">
-    A program that protects your anonymity under various regulations
+    A program to help you evade cryptocurrency regulation
     <br />
   <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
     ·
