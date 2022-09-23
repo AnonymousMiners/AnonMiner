@@ -38,7 +38,7 @@ At the same time, Anon Miner also supports **Host-Client management mode** and *
 
 Currently supports all mainstream currencies and mining pools of NBMiner v41.0 - v42.3.  For details, check [Support Coins](#DevFee).
 
->Currently only the **Windows x64** platform is supported, other platforms will be supported very soon.
+>Currently only the **Windows x64** platform is supported, other platforms will be supported very soon. [Releases](https://github.com/AnonymousMiners/AnonMiner/releases)
 
 # Table of Contents
 - [Background](#Background)
