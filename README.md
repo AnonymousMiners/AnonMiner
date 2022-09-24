@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -6,7 +5,7 @@
 
   <h3 align="center">Camouflage & Encryption</h3>
   <p align="center">
-    A program to help you circumvent cryptocurrency mining regulations
+    A program to help you evade cryptocurrency regulation
     <br />
   <a href="https://github.com/AnonymousMiners/AnonMiner/issues/new?assignees=&labels=unverified&template=bug_report.yml">Report bug</a>
     ·
@@ -31,13 +30,15 @@
   </p>
 </p>
 
-Anon Miner is a comprehensive **GPU mining program** that integrates **NoDevMode, overclocking, Host-Client management, active countermeasures, camouflage and encryption, modification of traffic characteristics, and adjustment of traffic scale models**.
+Anon Miner is a comprehensive **GPU mining program** that integrates **NoDevMode, overclocking, Host-Client management, active countermeasures, camouflage and encryption, modification of the mining traffic characteristics, and adjustment of traffic scale models**.
 
-Anon Miner can **fully simulate all processes such as requests, handshakes, and connections for normal web browsing** by adding and adjusting various features.
+Anon Miner can **fully simulate all processes such as requests, handshakes, and connections for normal web browsing** by adding and adjusting various characteristics of mining traffic to achieve complete anonymity.
 
 At the same time, Anon Miner also supports **Host-Client management mode** and **NoDevFee mode**.
 
 Currently supports all mainstream currencies and mining pools of NBMiner v41.0 - v42.3.  For details, check [Support Coins](#DevFee).
+
+> For the address of the mining pool, please refer to [MiningPoolStats](https://miningpoolstats.stream/).
 
 >Currently only the **Windows x64** platform is supported, other platforms will be supported very soon. [Releases](https://github.com/AnonymousMiners/AnonMiner/releases)
 
