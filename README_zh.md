@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/AnonymousMiners/AnonMiner">
     <img src="https://raw.github.com/AnonymousMiners/AnonMiner/master/AnonMiner.png" alt="Logo" width="600" height="104">
@@ -31,11 +30,13 @@
   </p>
 </p>
 
-相较于市面上通过Gost隧道简单实现的TLS或AES加密程序，**无名矿工**是一款**集反抽水、超频、主被控管理、主动对抗策略、伪装与加密、修改流量特征、调整流量比例模型**于一身的综合性自研**GPU挖矿程序**。
+**无名矿工**是一款**集反抽水、超频、主被控管理、主动对抗策略、伪装与加密、修改挖矿流量特征、调整下载与上传流量比例模型**于一身的综合性**GPU挖矿程序**。本程序的匿名程度远高于使用Gost隧道实现的简单TLS或AES加密程序。
 
-**无名矿工**能通过增加并调整各类特征，**全面模拟正常网页浏览的请求、握手、连接等所有流程，以达到完全匿名**。
+**无名矿工**能通过增加并调整挖矿流量的各类特征，**全面模拟正常网页浏览的请求、握手、连接等所有流程，以达到完全匿名**。
 
 目前支持NBMiner v41.0 - v42.3 内核的所有主流币种及矿池。详情请参见[支持币种](#开发费用)。
+
+>矿池的对应地址请参考[MiningPoolStats](https://miningpoolstats.stream/)。
 
 >目前仅支持**Windows 64位**平台，其他平台将很快支持。[下载地址](https://github.com/AnonymousMiners/AnonMiner/releases)
 
