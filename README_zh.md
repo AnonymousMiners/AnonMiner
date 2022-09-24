@@ -169,6 +169,8 @@
 
 基础开发费用为 **1.2%**。
 
+>矿池的对应地址请参考[MiningPoolStats](https://miningpoolstats.stream/)。
+
 当**返还开发费模式开启**时，开发费用如下：
 
 |算法|币种|开发费用  |
