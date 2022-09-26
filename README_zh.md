@@ -36,8 +36,6 @@
 
 目前支持NBMiner v41.0 - v42.3 内核的所有主流币种及矿池。详情请参见[支持币种](#开发费用)。
 
->矿池的对应地址请参考[MiningPoolStats](https://miningpoolstats.stream/)。
-
 >目前仅支持**Windows 64位**平台，其他平台将很快支持。[下载地址](https://github.com/AnonymousMiners/AnonMiner/releases)
 
 >加入通知频道，获取最新资讯。[联系我们](#联系我们)
