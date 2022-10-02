@@ -164,8 +164,6 @@ File tree
 
 ## DevFee
 
-The basic dev fee is **1.2%**.
-
 > For the corresponding address of the mining pool, please refer to [MiningPoolStats](https://miningpoolstats.stream/).
 
 When the **No Dev Fee mode is turned on**, the dev fee is as follows:
@@ -173,14 +171,16 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 |Algorithm|Coins|Dev Fee  |
 |--|--|--|
 |**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
-|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
-|  **Cuckoo Cycle** |**AE**, CTXC |- 0.8% |
-|**Autolykos 2** | **ERGO** |- 0.8% |
-| **Octopus** |CFX|- 1.8%  |
-| **BeamHash** |Beam| - 0.8% |
-
+|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |0% |
+|  **Cuckoo Cycle** |**AE**, CTXC |- 1% |
+|**Autolykos 2** | **ERGO** |- 1% |
+| **Octopus** |CFX|- 2%  |
+| **BeamHash** |Beam| - 1% |
 
 **Note**: Negative rates mean you'll get extra income than using the mining software alone.
+
+**When NoDevFee mode is turned off**, the dev fee is 1%.
+
 >Currently only supported Nbminer,  other mining software will be supported soon.
 
 ## FAQ
@@ -263,6 +263,13 @@ Recommended:
 Explore the [documentation](https://github.com/AnonymousMiners/AnonMiner/wiki) for this project.
 
 ## Change Log
+v1.3.2 (2022-10-02)
+
+- Improve display logic.
+- Increase overclocking parameters.
+   -  Temperature upper bound.
+   -  Restart temperature after reaching the upper bound.
+   
 v1.3.1 (2022-09-22)
 
 - Fix local display bug
