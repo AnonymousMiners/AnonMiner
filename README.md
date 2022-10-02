@@ -170,8 +170,8 @@ When the **No Dev Fee mode is turned on**, the dev fee is as follows:
 
 |Algorithm|Coins|Dev Fee  |
 |--|--|--|
-|**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
-|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |0% |
+|**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0% |
+|  **Kawpow** |ARL, HVQ, KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 1% |
 |  **Cuckoo Cycle** |**AE**, CTXC |- 1% |
 |**Autolykos 2** | **ERGO** |- 1% |
 | **Octopus** |CFX|- 2%  |
