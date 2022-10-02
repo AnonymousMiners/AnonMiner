@@ -165,23 +165,22 @@
 
 ## 开发费用
 
-基础开发费用为 **1.2%**。
-
 >矿池的对应地址请参考[MiningPoolStats](https://miningpoolstats.stream/)。
 
 当**返还开发费模式开启**时，开发费用如下：
 
 |算法|币种|开发费用  |
 |--|--|--|
-|**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0.2% |
-|  **Kawpow** | KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 0.8% |
-|  **Cuckoo Cycle** |**AE** |- 0.8% |
-|**Autolykos 2** | **ERGO** |- 0.8% |
-| **Octopus** |CFX|- 1.8%  |
-| **BeamHash** |Beam| - 0.8% |
-
+|**Ethash/Etchash**  |AKA, ATH, CLO, DAE, DBIX, EGEM, ELLA, ERGO, ESN, **ETC**, **ETF**, ETHO, **ETHW**, ETP, EXP, QKC|  0% |
+|  **Kawpow** | KAW, MEWC, NEOX, PRCO, **RVN**, SATO  |- 1% |
+|  **Cuckoo Cycle** |**AE** |- 1% |
+|**Autolykos 2** | **ERGO** |- 1% |
+| **Octopus** |CFX|- 2%  |
+| **BeamHash** |Beam| - 1% |
 
 **注意**: 负数费用意味着您将获得比单独使用挖矿软件时，更多的收益。
+
+**当返还开发费模式关闭时**，开发费用为1%。
 
 >目前仅支持Nbminer，其他挖矿软件将很快支持。
 
@@ -264,11 +263,18 @@
 请在 [项目文档](https://github.com/AnonymousMiners/AnonMiner/wiki) 中探索。
 
 ## 更新日志
+
+v1.3.2 (2022-10-02)
+
+- 改进模块显示逻辑
+- 增加超频设置参数
+   -  温度上界
+   -  达到温度上界后，重新开始运行的目标冷却温度
+   
 v1.3.1 (2022-09-22)
 
 - 修复本地显示错误
 - 修复一些翻译错误
-
 
 v1.3 (2022-08-17)
 - 重构主被控管理框架
